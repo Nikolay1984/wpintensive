@@ -1,0 +1,149 @@
+
+ƒ	Web:S4645ç"hA </script> was found without a relating opening <script> tag. This may be caused by nested script tags.(ãõ§üÿÿÿÿ
+J	php:S1135Ş
+"4Complete the task associated to this "TODO" comment.(”ò”™
+O	php:S1135Î"4Complete the task associated to this "TODO" comment.(£Ú®åúÿÿÿÿ
+h	php:S1301µ"MReplace this "switch" statement with "if" statements to increase readability.(·ª¡«ûÿÿÿÿ
+h	php:S1301Â"MReplace this "switch" statement with "if" statements to increase readability.(·ª¡«ûÿÿÿÿ
+d	php:S1142µ"OReduce the number of returns of this function 4, down to the maximum allowed 3.(úİäa
+j	php:S1142Ğ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(£†ŒÑıÿÿÿÿ
+d	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÉÊ¾(
+e	php:S1142²
+"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‹Ø§½
+e	php:S1142¸"OReduce the number of returns of this function 4, down to the maximum allowed 3.(›¹—˜
+d	php:S1142õ"OReduce the number of returns of this function 5, down to the maximum allowed 3.(”Šˆx
+e	php:S1142²"OReduce the number of returns of this function 4, down to the maximum allowed 3.(ÎäÏÄ
+j	php:S1142ö"OReduce the number of returns of this function 8, down to the maximum allowed 3.(Ö’ƒÒúÿÿÿÿ
+j	php:S1142ï"OReduce the number of returns of this function 7, down to the maximum allowed 3.(æÅÖÎúÿÿÿÿ
+J	php:S1066Ğ"/Merge this if statement with the enclosing one.(Ì¤ê«ÿÿÿÿÿ
+J	php:S1066‚"/Merge this if statement with the enclosing one.(ú¬Ğ†ûÿÿÿÿ
+J	php:S1066†"/Merge this if statement with the enclosing one.(ÙË±õúÿÿÿÿ
+i	php:S3776#"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¢øÏ
+i	php:S3776µ"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(úİäa
+o	php:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¤ÏÜïúÿÿÿÿ
+j	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(á¸ ä
+j	php:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿŠ½û
+j	php:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(»ì× 
+o	php:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(—Å“¼ıÿÿÿÿ
+j	php:S3776¸"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(›¹—˜
+o	php:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(æÅÖÎúÿÿÿÿ
+j	php:S3776–"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(†Ÿæ
+d	php:S1871¿
+"NThis branch's code block is the same as the block for the branch on line 1341.(¬óîØ
+]	php:S1192Ì"GDefine a constant instead of duplicating this literal "html5" 10 times.(±ß
+b	php:S1192("HDefine a constant instead of duplicating this literal "allowed" 3 times.(·™ñ€üÿÿÿÿ
+o	php:S1192ã"YDefine a constant instead of duplicating this literal "customize_changeset_uuid" 5 times.(“Âùÿ
+^	php:S1192²"HDefine a constant instead of duplicating this literal "wp_head" 4 times.(”²‰î
+i	php:S1192°"SDefine a constant instead of duplicating this literal "after_switch_theme" 4 times.(±Âå÷
+f	php:S1192á
+"KDefine a constant instead of duplicating this literal "post_type" 17 times.(£·â©úÿÿÿÿ
+f	php:S1192ï"PDefine a constant instead of duplicating this literal "customize_theme" 3 times.(²úšå
+r	php:S1192ï"\Define a constant instead of duplicating this literal "customize_messenger_channel" 3 times.(²úšå
+h	php:S1192Ğ"MDefine a constant instead of duplicating this literal "post-formats" 3 times.(·ÃÊ›şÿÿÿÿ
+^	php:S1192¯"HDefine a constant instead of duplicating this literal "object" 14 times.(ã¼Ÿ­
+^	php:S1192‡"HDefine a constant instead of duplicating this literal "schema" 22 times.(Ô¯å
+n	php:S1192Â"SDefine a constant instead of duplicating this literal "custom_css_post_id" 3 times.(íçœŸûÿÿÿÿ
+b	php:S1192)"HDefine a constant instead of duplicating this literal "blog_id" 4 times.(ü·„Åúÿÿÿÿ
+a	php:S1192è"FDefine a constant instead of duplicating this literal "right" 3 times.( ±à¸ùÿÿÿÿ
+_	php:S1192Ó"IDefine a constant instead of duplicating this literal "standard" 3 times.(ŸêñŒ
+_	php:S1192¦"IDefine a constant instead of duplicating this literal "mimeType" 3 times.(ĞÒ¸Ä
+e	php:S1192
+"ODefine a constant instead of duplicating this literal "random-default" 4 times.(µ…¥©
+d	php:S1192¹"NDefine a constant instead of duplicating this literal "default-color" 7 times.(¾éã‹
+g	php:S1192¶"LDefine a constant instead of duplicating this literal "post_status" 3 times.(ƒ—©£üÿÿÿÿ
+n	php:S1192¥"SDefine a constant instead of duplicating this literal "custom-background" 19 times.(åÛöÎøÿÿÿÿ
+c	php:S1192á"MDefine a constant instead of duplicating this literal "wp_customize" 3 times.(ˆ˜™é
+j	php:S1192Ë"TDefine a constant instead of duplicating this literal "custom_image_header" 3 times.(óá
+d	php:S1192³"NDefine a constant instead of duplicating this literal "template_root" 3 times.(ôÃ˜
+b	php:S1192å"GDefine a constant instead of duplicating this literal "title" 20 times.(ø³Ûªÿÿÿÿÿ
+m	php:S1192÷
+"RDefine a constant instead of duplicating this literal "attachment_parent" 3 times.(»ÌŞ—üÿÿÿÿ
+i	php:S1192İ"NDefine a constant instead of duplicating this literal "customize.php" 3 times.(ÙçÖÚùÿÿÿÿ
+^	php:S1192ÿ"HDefine a constant instead of duplicating this literal "uploads" 5 times.(öª«“
+^	php:S1192À"HDefine a constant instead of duplicating this literal "publish" 4 times.(¦—Êı
+o	php:S1192‘"TDefine a constant instead of duplicating this literal "admin-head-callback" 4 times.(‘ğÇšıÿÿÿÿ
+a	php:S1192½"KDefine a constant instead of duplicating this literal "post_title" 8 times.(ÄÏ»¿
+g	php:S1192Ì"QDefine a constant instead of duplicating this literal " type="text/css"" 4 times.(±ß
+f	php:S11928"LDefine a constant instead of duplicating this literal "theme_root" 11 times.(É½è”üÿÿÿÿ
+e	php:S1192°"JDefine a constant instead of duplicating this literal "object_id" 5 times.(Ûä¶åüÿÿÿÿ
+_	php:S1192»"IDefine a constant instead of duplicating this literal "template" 5 times.(€éâæ
+m	php:S1192’"WDefine a constant instead of duplicating this literal "admin-preview-callback" 4 times.(Ğ§Æ×
+c	php:S1192á"HDefine a constant instead of duplicating this literal "widgets" 3 times.(şÊ¡†ÿÿÿÿÿ
+h	php:S1192ø"MDefine a constant instead of duplicating this literal "editor-style" 4 times.(‰âüğıÿÿÿÿ
+e	php:S1192Ü"ODefine a constant instead of duplicating this literal "custom-header" 29 times.(Ô»¯
+^	php:S1192"HDefine a constant instead of duplicating this literal "integer" 5 times.(áÙğ
+d	php:S1192”"NDefine a constant instead of duplicating this literal "editor_styles" 4 times.(…ûŒè
+e	php:S1192¾"JDefine a constant instead of duplicating this literal "post_name" 6 times.(š†¥õşÿÿÿÿ
+i	php:S1192"NDefine a constant instead of duplicating this literal "current_theme" 3 times.(¡ÓöÚúÿÿÿÿ
+\	php:S1192'"GDefine a constant instead of duplicating this literal "errors" 4 times.(—ç²á
+i	php:S1192…"SDefine a constant instead of duplicating this literal "default-attachment" 3 times.(êñŸ­
+a	php:S1192é"LDefine a constant instead of duplicating this literal "custom-logo" 6 times.(°ÅâC
+s	php:S1192 "XDefine a constant instead of duplicating this literal "nav_menus_created_posts" 3 times.(´ ¯½ùÿÿÿÿ
+]	php:S1192ş"GDefine a constant instead of duplicating this literal "repeat" 5 times.(«ëï‡
+g	php:S1192‰"QDefine a constant instead of duplicating this literal "prepare_callback" 5 times.(çÖŸ±
+e	php:S1192±"ODefine a constant instead of duplicating this literal "theme_switched" 3 times.(üƒåâ
+f	php:S1192ô"KDefine a constant instead of duplicating this literal "/style.css" 9 times.(ÔÄÛ²şÿÿÿÿ
+h	php:S1192Á"MDefine a constant instead of duplicating this literal "post_content" 6 times.(Ì–şÿÿÿÿ
+a	php:S1192«"KDefine a constant instead of duplicating this literal "properties" 7 times.(ÍåÀ¶
+\	php:S1192¿	"FDefine a constant instead of duplicating this literal "sizes" 3 times.(…Úİ¯
+i	php:S1192Ï"SDefine a constant instead of duplicating this literal "customize_register" 3 times.(ú¦î
+c	php:S1192³	"HDefine a constant instead of duplicating this literal "height" 16 times.(›Á‰Çıÿÿÿÿ
+f	php:S1192±"PDefine a constant instead of duplicating this literal "stylesheet_root" 3 times.(²¦˜…
+b	php:S1192È"GDefine a constant instead of duplicating this literal "items" 11 times.(¯§¿Ìùÿÿÿÿ
+h	php:S1192	"MDefine a constant instead of duplicating this literal "header_image" 4 times.(‚‰£¸øÿÿÿÿ
+^	php:S1192¿
+"HDefine a constant instead of duplicating this literal "default" 6 times.(¬óîØ
+\	php:S1192—"FDefine a constant instead of duplicating this literal "__jit" 6 times.(…­†Ë
+j	php:S1192	"ODefine a constant instead of duplicating this literal "default-image" 16 times.(‚‰£¸øÿÿÿÿ
+h	php:S1192ó"MDefine a constant instead of duplicating this literal "default-size" 3 times.(äÈğÍÿÿÿÿÿ
+`	php:S1192"JDefine a constant instead of duplicating this literal "wp_loaded" 3 times.(’½ûç
+a	php:S1192æ"KDefine a constant instead of duplicating this literal "theme_file" 4 times.(´Ççõ
+b	php:S1192}"HDefine a constant instead of duplicating this literal "/themes" 4 times.(ÈˆÑ¢ûÿÿÿÿ
+c	php:S1192“"MDefine a constant instead of duplicating this literal "requires_php" 3 times.(èàƒ¶
+e	php:S1192ï"ODefine a constant instead of duplicating this literal "changeset_uuid" 5 times.(²úšå
+^	php:S1192"HDefine a constant instead of duplicating this literal "string" 23 times.(áÙğ
+c	php:S1192ù"MDefine a constant instead of duplicating this literal "description" 23 times.(Èæ’
+\	php:S1192¬"FDefine a constant instead of duplicating this literal "video" 5 times.(ÑñÈè
+b	php:S1192è"GDefine a constant instead of duplicating this literal "center" 4 times.( ±à¸ùÿÿÿÿ
+i	php:S1192ú"NDefine a constant instead of duplicating this literal "show_in_rest" 43 times.(óë½ùÿÿÿÿ
+i	php:S1192Ü"SDefine a constant instead of duplicating this literal "default-text-color" 7 times.(Ô»¯
+n	php:S1192æ"SDefine a constant instead of duplicating this literal "default-position-y" 3 times.(§å­Îûÿÿÿÿ
+i	php:S1192å"SDefine a constant instead of duplicating this literal "default-position-x" 3 times.(ûÔÆÒ
+g	php:S1192ÿ"LDefine a constant instead of duplicating this literal "theme_roots" 5 times.(‘ª¾‘ùÿÿÿÿ
+g	php:S1192µ"LDefine a constant instead of duplicating this literal "stylesheet" 14 times.(»»¨¶ıÿÿÿÿ
+b	php:S1192ñ"LDefine a constant instead of duplicating this literal "flex-height" 7 times.(º¢‡Ú
+l	php:S1192ş"VDefine a constant instead of duplicating this literal "custom-header-uploads" 3 times.(Íª¶ö
+b	php:S1192ˆ"GDefine a constant instead of duplicating this literal "scroll" 3 times.(ôóÿüÿÿÿÿ
+r	php:S1192å"WDefine a constant instead of duplicating this literal "Theme starter content" 37 times.(ø³Ûªÿÿÿÿÿ
+\	php:S1192Ì"FDefine a constant instead of duplicating this literal "style" 5 times.(±ß
+d	php:S1192’"IDefine a constant instead of duplicating this literal "requires" 3 times.(¼Àåîşÿÿÿÿ
+h	php:S1192"MDefine a constant instead of duplicating this literal "preprocessed" 4 times.(†«ĞËúÿÿÿÿ
+d	php:S1192õ
+"NDefine a constant instead of duplicating this literal "thumbnail_url" 5 times.(·‚Å’
+a	php:S1192Ÿ"FDefine a constant instead of duplicating this literal "theme" 8 times.(ÒõÅŒşÿÿÿÿ
+f	php:S1192À"PDefine a constant instead of duplicating this literal "post-thumbnails" 6 times.(”È—Á
+]	php:S1192²	"GDefine a constant instead of duplicating this literal "width" 16 times.(ÃŞèÅ
+i	php:S1192ÿ"SDefine a constant instead of duplicating this literal "nav_menu_locations" 3 times.(–½’ı
+f	php:S1192ğ"KDefine a constant instead of duplicating this literal "flex-width" 7 times.(«ûíúÿÿÿÿ
+o	php:S1192»"TDefine a constant instead of duplicating this literal "customize_changeset" 3 times.(‚¿‡ùÿÿÿÿ
+j	php:S1192ü"ODefine a constant instead of duplicating this literal "default-repeat" 3 times.(Éûß¾ıÿÿÿÿ
+l	php:S1192"QDefine a constant instead of duplicating this literal "wp-head-callback" 9 times.(Şôì›üÿÿÿÿ
+c	php:S1192ğ"MDefine a constant instead of duplicating this literal "header-text" 11 times.(Øÿ—»
+]	php:S1192"GDefine a constant instead of duplicating this literal "array" 12 times.(áÙğ
+a	php:S1192 "FDefine a constant instead of duplicating this literal "value" 3 times.(´ ¯½ùÿÿÿÿ
+d	php:S1192÷"IDefine a constant instead of duplicating this literal "boolean" 14 times.(¦Õ¬üşÿÿÿÿ
+”	php:S1192õ"yDefine a constant instead of duplicating this literal "<!-- wp:paragraph -->\n<p>%s</p>\n<!-- /wp:paragraph -->" 4 times.(‰›ûûÿÿÿÿ
+9php:S125ı"Remove this commented out code.(úÑîùÿÿÿÿ
+J	php:S3801¸"4Refactor this function to use "return" consistently.(›¹—˜
+J	php:S3801²"4Refactor this function to use "return" consistently.(ÎäÏÄ
+r	php:S1488ö"\Immediately return this expression instead of assigning it to the temporary variable "$css".(ñÈ¨Û
+u	php:S1488œ"`Immediately return this expression instead of assigning it to the temporary variable "$formats".(Æ‰°
+
+¤php:S138Ø"‰This function "get_theme_starter_content" has 271 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(—Å“¼ıÿÿÿÿ
+—php:S138¸"This function "add_theme_support" has 169 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(›¹—˜
+£php:S138İ"This function "create_initial_theme_features" has 362 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(°¹Õ†
+Qphp:S131 "7Add a "case default" clause to this "switch" statement.(Æâïêÿÿÿÿÿ
+Qphp:S131¿"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+Qphp:S131µ"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+Qphp:S131Â"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
+Qphp:S131†"7Add a "case default" clause to this "switch" statement.(·ª¡«ûÿÿÿÿ
