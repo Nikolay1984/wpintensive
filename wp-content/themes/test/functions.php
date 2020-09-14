@@ -2,6 +2,12 @@
 //http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 
 add_action('wp_enqueue_scripts', 'set_style');
+add_action('after_setup_theme', 'set_menu');
+
+function set_menu(){
+    register_nav_menu("menuHeader", "Место в header");
+    register_nav_menu("menuFooter", "Место в footer");
+}
 
 function set_style(){
     wp_enqueue_style('style',get_stylesheet_uri());
@@ -12,12 +18,12 @@ function set_style(){
 
 
 
-//
-//    wp_enqueue_script('doubletaptogo', get_template_directory_uri() . "/assets/js/doubletaptogo.js", array(), 1, true);
-//    wp_enqueue_script('init', get_template_directory_uri() . "/assets/js/init.js", array(), 1, true);
-//    wp_enqueue_script('flexslider', get_template_directory_uri() . "/assets/js/jquery.flexslider.js", array(), 1, true);
-//    wp_enqueue_script('migrate', get_template_directory_uri() . "/assets/js/jquery-migrate-1.2.1.min.js", array(), 1, true);
-//    wp_enqueue_script('modernizr', get_template_directory_uri() . "/assets/js/modernizr.js", array(), 1, true);
-    wp_enqueue_script('my', get_template_directory_uri() . "/assets/js/my_script.js", array(), 1, true);
 
+    wp_enqueue_script('doubletaptogo', get_template_directory_uri() . "/assets/js/doubletaptogo.js", array(), 1, true);
+    wp_enqueue_script('init', get_template_directory_uri() . "/assets/js/init.js", array(), 1, true);
+    wp_enqueue_script('flexslider', get_template_directory_uri() . "/assets/js/jquery.flexslider.js", array(), 1, true);
+    wp_enqueue_script('migrate', get_template_directory_uri() . "/assets/js/jquery-migrate-1.2.1.min.js", array(), 1, true);
+    wp_enqueue_script('modernizr', get_template_directory_uri() . "/assets/js/modernizr.js", array(), 1, true);
+    wp_enqueue_script('my', get_template_directory_uri() . "/assets/js/my_script.js", array(), 1, true);
+    wp_enqueue_script("jquery");
 }

@@ -6,9 +6,9 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <?php wp_enqueue_script("jquery"); ?>
 
     <?php wp_head(); ?>
+
 </head>
 <body>
 
@@ -21,7 +21,7 @@
         <div class="twelve columns">
 
             <div class="logo">
-                <a href="index.html"><img alt="" src="images/logo.png"></a>
+                <a href="index.html"><img alt="" src="/wp-content/themes/test/assets/images/logo.png"></a>
             </div>
 
             <nav id="nav-wrap">
@@ -30,6 +30,7 @@
                 <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
                 <ul id="nav" class="nav">
+
 
                     <li class="current"><a href="index.htm">Home</a></li>
                     <li><span><a href="blog.html">Blog</a></span>
@@ -59,20 +60,52 @@
 </header>
 <!-- Header End -->
 
-<!-- Page Title
-================================================== -->
-<div id="page-title">
+<!-- Intro Section
+   ================================================== -->
+<section id="intro">
 
-    <div class="row">
+    <!-- Flexslider Start-->
+    <div id="intro-slider" class="flexslider">
 
-        <div class="ten columns centered text-center">
-            <h1>Style Guide<span>.</span></h1>
+        <ul class="slides">
 
-            <p>Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi
-                enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. </p>
-        </div>
+            <!-- Slide -->
+            <li>
+                <div class="row">
+                    <div class="twelve columns">
+                        <div class="slider-text">
+                            <h1>Free amazing site template<span>.</span></h1>
+                            <p>Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi
+                                enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu. lacus sit amet luctus lobortis, dolores et quas molestias excepturi
+                                enim tellus ultrices elit.</p>
+                        </div>
+                        <div class="slider-image">
+                            <img src="/wp-content/themes/test/assets/images/sliders/home-slider-image-01.png" alt="" />
+                        </div>
+                    </div>
+                </div>
+            </li>
 
-    </div>
+            <!-- Slide -->
+            <li>
+                <div class="row">
+                    <div class="twelve columns">
+                        <div class="slider-text">
+                            <h1>Responsive + HTML5 + CSS3<span>.</span></h1>
+                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
+                                deleniti eos et accusamus. amet consequat enim elit noneas sit amet luctu. lacus sit amet luctus lobortis.
+                                Aenean condimentum, lacus sit amet luctus.</p>
+                        </div>
+                        <div class="slider-image">
+                            <img src="/wp-content/themes/test/assets/images/sliders/home-slider-image-02.png" alt="" />
+                        </div>
+                    </div>
+                </div>
+            </li>
 
-</div>
-<!-- Page Title End-->
+        </ul>
+
+    </div> <!-- Flexslider End-->
+
+</section> <!-- Intro Section End-->
+

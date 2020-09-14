@@ -1,1 +1,6 @@
-console.log($);
+
+jQuery( document ).ready( function( $ ) {
+    console.log($);
+});
+
+

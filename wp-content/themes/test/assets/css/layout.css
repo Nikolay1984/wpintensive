@@ -241,7 +241,7 @@ ul#nav {
    /* left align the menu */
    text-align: left;
 }
-ul#nav li {
+ul#nav li  {
 	position: relative;
 	list-style: none;
    height: 48px;

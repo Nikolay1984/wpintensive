@@ -4,7 +4,7 @@
 /*
 -----------------------------------------------------------------------------------*/
 
- jQuery(document).ready(function() {
+ jQuery(document).ready(function($) {
 
 /*----------------------------------------------------*/
 /*	Navigation - Double Tap to Go
