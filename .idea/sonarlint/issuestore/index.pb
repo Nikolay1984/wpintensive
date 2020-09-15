@@ -27,3 +27,21 @@ E
 wp-includes/theme.php,5\a\5a1ad44d8f9e0a59ae8b15846b692f46ee45cdc1
 S
 #wp-includes/functions.wp-styles.php,e\b\eb29fc2d700ced5b90f74f2e3458cd9106c7f79a
+Q
+!wp-content/themes/test/footer.php,d\5\d5a327684a3be7d8dce6db828b0dab7cc3d7ede8
+]
+-wp-content/themes/test/Sparrow101/styles.html,8\1\81b272293a1927c0bebcf0f0d4215edd9a2842e6
+\
+,wp-content/themes/test/Sparrow101/index.html,7\d\7dcd7094b5b3c482ec8e7138a53d4fce61bc7e53
+P
+ wp-content/themes/test/index.php,5\e\5ee636e56b403afb3038aa29636239b913491f59
+s
+Cwp-content/themes/test/assets/css/font-awesome/css/font-awesome.css,1\3\13291fb7dcc6b4451cc5673799a693158d525102
+O
+wp-includes/js/jquery/jquery.js,e\d\ed0f1c2a6644f61b76a82f925227a3af25aa18c7
+]
+-wp-content/themes/test/assets/js/my_script.js,4\6\46e5a8715d3363760cf728cdbf6766c30eba3918
+T
+$wp-content/themes/test/functions.php,6\8\68f8eca9d9922a7b2f10a3932d93b31f2af9ef50
+Q
+!wp-content/themes/test/header.php,e\b\ebacc395c1ad67556b59224a6a9a6faf862d8c1e

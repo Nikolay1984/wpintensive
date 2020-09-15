@@ -1,3 +1,3 @@
 
-tphp:S115"`Rename this constant "_S_VERSION" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(«¤†¡
 ]	php:S1192$"IDefine a constant instead of duplicating this literal "hoockers" 4 times.(™‚Û
+tphp:S115"`Rename this constant "_S_VERSION" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(«¤†¡
