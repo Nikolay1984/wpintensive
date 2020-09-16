@@ -1,2 +1,7 @@
 <?php
-echo 222222;
+if( is_archive() ){
+
+echo "Is archive";
+die();
+}
+echo "Not archive";

@@ -1,0 +1,1 @@
+<h1>SINGlE POST</h1>
