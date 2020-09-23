@@ -6,12 +6,16 @@ get_header();
 <?php while (have_posts()){
 
             the_post();
-   echo CFS()->get('intro');
-            echo '<div>';
-            echo the_title();
+//   echo CFS()->get('intro');
+   echo "<br>";
+//            echo '<div>';
+//    the_title();
 
-
-            echo '</div>';
+    the_content();
+    echo  (do_shortcode('shortcode-start [mycode] shortcode-end'));
+//
+//
+//            echo '</div>';
 
 }
 

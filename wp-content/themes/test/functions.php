@@ -4,6 +4,10 @@
 add_action('wp_enqueue_scripts', 'set_style');
 add_action('after_setup_theme', 'set_menu');
 add_action('widgets_init', 'register_my_widgets');
+add_shortcode( 'mycode', function (){
+	return 'bla-bla-bla-bla-bla-bla-bla-bla-bla-bla';
+});
+
 
 
 function register_my_widgets(){
