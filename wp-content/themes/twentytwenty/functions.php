@@ -74,14 +74,14 @@ function twentytwenty_theme_support() {
 	}
 
 	add_theme_support(
-		'custom-logo',
-		array(
-			'height'      => $logo_height,
-			'width'       => $logo_width,
-			'flex-height' => true,
-			'flex-width'  => true,
-		)
-	);
+        'custom-logo',
+        array(
+            'height'      => $logo_height,
+            'width'       => $logo_width,
+            'flex-height' => true,
+            'flex-width'  => true,
+        )
+    );
 
 	/*
 	 * Let WordPress manage the document title.

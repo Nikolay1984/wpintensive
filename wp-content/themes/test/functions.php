@@ -5,6 +5,7 @@ add_action('wp_enqueue_scripts', 'set_style');
 add_action('after_setup_theme', 'set_menu');
 add_action('widgets_init', 'register_my_widgets');
 
+
 function register_my_widgets(){
     register_sidebar( array(
         'name'          => "Сайдбар",
@@ -21,6 +22,9 @@ function register_my_widgets(){
 function set_menu(){
     register_nav_menu("menuHeader", "Место в header");
     register_nav_menu("menuFooter", "Место в footer");
+
+    add_theme_support( 'post-thumbnails' );
+//    add_theme_support('custom-logo');
 }
 
 function set_style(){

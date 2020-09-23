@@ -45,3 +45,33 @@ T
 $wp-content/themes/test/functions.php,6\8\68f8eca9d9922a7b2f10a3932d93b31f2af9ef50
 Q
 !wp-content/themes/test/header.php,e\b\ebacc395c1ad67556b59224a6a9a6faf862d8c1e
+Z
+*wp-content/themes/twentyseventeen/page.php,1\c\1c6277092d11983b95d9e1f31fddc28fa293db94
+[
++wp-content/themes/twentyseventeen/index.php,d\c\dc010e615c726e0b006d30afa2c9b4ef8193d259
+?
+wp-settings.php,2\8\28db9c475b5726705da984293575b8c2099aa92f
+D
+wp-config-sample.php,c\c\cc1467fdf8124341627c2ce1cbeb91767d86c6bc
+[
++wp-content/themes/test/Sparrow101/blog.html,5\a\5ade8e206dba12153f9ce2c298c2b8f36997e03c
+L
+wp-content/plugins/hello.php,3\7\375202c977691cee911f38e7700871671f930d89
+[
++wp-content/themes/twentyseventeen/style.css,5\6\56ba503ad1a17c5e156eda0637ae00da9b3de6fb
+9
+	.htaccess,f\1\f14dd8fe84b7e99eb63debbf029152463832e7ad
+P
+ wp-includes/general-template.php,0\3\03100930bd37ba500f52bf41d0f57cf991e6a7d0
+F
+wp-includes/plugin.php,a\a\aa6bb26d455b84ac17ebd9d66ffb0f0559642202
+\
+,wp-content/themes/twentyseventeen/header.php,0\b\0b32192c15a0f99c1d20e6a0602dacdeafbc1824
+M
+wp-content/languages/pl_PL.po,6\7\67660e5c4ad9ab7113f52daa3ca6277f7d9ca16e
+S
+#wp-content/languages/admin-pl_PL.po,7\3\73a46902471272b35685261691776eda188f88b7
+M
+wp-content/languages/ru_RU.po,4\2\42dd25730d25557e388fec2530653197475ca623
+P
+ wp-content/themes/test/style.css,b\a\ba15d6896af78310fd5c04edc927b8366570ea20

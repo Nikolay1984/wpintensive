@@ -17,6 +17,8 @@
 
 get_header(); ?>
 
+
+
 <div class="wrap">
 	<?php if ( is_home() && ! is_front_page() ) : ?>
 		<header class="page-header">
