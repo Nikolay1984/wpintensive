@@ -108,6 +108,18 @@ class WP_Nav_Menu_Widget extends WP_Widget {
 		wp_nav_menu( apply_filters( 'widget_nav_menu_args', $nav_menu_args, $nav_menu, $args, $instance ) );
 
 		echo $args['after_widget'];
+
+        $app = apply_filters(
+            'widget_posts_args',
+            array(
+                'posts_per_page'      => 1,
+                'no_found_rows'       => true,
+                'post_status'         => 'publish',
+                'ignore_sticky_posts' => true,
+            )
+        );
+
+
 	}
 
 	/**
@@ -163,6 +175,7 @@ class WP_Nav_Menu_Widget extends WP_Widget {
 		// If no menus exists, direct the user to go and create some.
 		?>
 		<p class="nav-menu-widget-no-menus-message" <?php echo $not_empty_menus_style; ?>>
+
 			<?php
 			if ( $wp_customize instanceof WP_Customize_Manager ) {
 				$url = 'javascript: wp.customize.panel( "nav_menus" ).focus();';

@@ -1,9 +1,13 @@
 <?php
 //http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 
+
+
 add_action('wp_enqueue_scripts', 'set_style');
 add_action('after_setup_theme', 'set_menu');
 add_action('widgets_init', 'register_my_widgets');
+
+
 add_shortcode( 'mycode', function (){
 	return 'bla-bla-bla-bla-bla-bla-bla-bla-bla-bla';
 });
@@ -29,6 +33,7 @@ function set_menu(){
 
     add_theme_support( 'post-thumbnails' );
 //    add_theme_support('custom-logo');
+
 }
 
 function set_style(){
